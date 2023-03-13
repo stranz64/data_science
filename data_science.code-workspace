@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Nokia",
+			"path": "../Nokia"
+		},
+		{
+			"name": "test",
+			"path": "../test"
+		}
+	],
+	"settings": {}
+}
